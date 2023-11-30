@@ -1,8 +1,8 @@
-package com.proxmity.konsistsample.repository
+package com.proximity.konsistsample.repository
 
-import com.proxmity.konsistsample.model.Feed
-import com.proxmity.konsistsample.model.UIFeed
-import com.proxmity.konsistsample.viemodel.FeedViewModel
+import com.proximity.konsistsample.model.Feed
+import com.proximity.konsistsample.model.UIFeed
+import com.proximity.konsistsample.viemodel.FeedViewModel
 
 class StoryRepository(feedViewModel: FeedViewModel) : BaseRepository() {
     override fun getPrimaryKey(): String {

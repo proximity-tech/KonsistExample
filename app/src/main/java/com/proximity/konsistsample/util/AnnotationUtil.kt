@@ -1,4 +1,4 @@
-package com.proxmity.konsistsample.util
+package com.proximity.konsistsample.util
 
 class AnnotationUtil
 

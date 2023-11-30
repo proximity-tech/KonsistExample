@@ -1,4 +1,4 @@
-package com.proxmity.konsistsample.ui.theme
+package com.proximity.konsistsample.ui.theme
 
 import androidx.compose.ui.graphics.Color
 

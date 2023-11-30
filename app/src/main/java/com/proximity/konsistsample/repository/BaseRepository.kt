@@ -1,7 +1,7 @@
-package com.proxmity.konsistsample.repository
+package com.proximity.konsistsample.repository
 
-import com.proxmity.konsistsample.model.Feed
-import com.proxmity.konsistsample.model.UIFeed
+import com.proximity.konsistsample.model.Feed
+import com.proximity.konsistsample.model.UIFeed
 import kotlinx.coroutines.flow.MutableStateFlow
 import kotlinx.coroutines.flow.StateFlow
 

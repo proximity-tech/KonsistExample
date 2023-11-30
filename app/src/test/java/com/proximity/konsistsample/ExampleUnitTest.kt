@@ -1,4 +1,4 @@
-package com.proxmity.konsistsample
+package com.proximity.konsistsample
 
 import com.lemonappdev.konsist.api.Konsist
 import com.lemonappdev.konsist.api.architecture.KoArchitectureCreator.assertArchitecture
@@ -11,7 +11,7 @@ import com.lemonappdev.konsist.api.ext.list.withReturnType
 import com.lemonappdev.konsist.api.verify.assertEmpty
 import com.lemonappdev.konsist.api.verify.assertNotEmpty
 import com.lemonappdev.konsist.api.verify.assertTrue
-import com.proxmity.konsistsample.util.SERIALIZABLE
+import com.proximity.konsistsample.util.SERIALIZABLE
 import org.junit.Assert.assertTrue
 import org.junit.Test
 
