@@ -1,4 +1,4 @@
-package com.prasanth.konsistsample.ui.theme
+package com.proxmity.konsistsample.ui.theme
 
 import android.app.Activity
 import android.os.Build

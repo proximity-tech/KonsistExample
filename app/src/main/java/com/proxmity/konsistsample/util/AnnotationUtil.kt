@@ -1,4 +1,4 @@
-package com.prasanth.konsistsample.util
+package com.proxmity.konsistsample.util
 
 class AnnotationUtil
 
